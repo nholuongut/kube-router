@@ -1,0 +1,9 @@
+.vscode
+.idea
+/kube-router
+/gobgp
+_output
+_cache
+vendor
+.*.sw?
+/cni-download
